@@ -4,9 +4,9 @@ The dataset contains information of flowers and their class which can either be 
 Different models are trained on this data and their accuracy is checked.
 
 SVM was more accurate with the following confusion matrix:
-         precision    recall  f1-score   support
+       <tr>  precision </tr>   recall  f1-score   support
 
-    Iris-setosa       1.00      1.00      1.00         7
+   Iris-setosa       1.00      1.00      1.00         7
 Iris-versicolor       1.00      0.83      0.91        12
  Iris-virginica       0.85      1.00      0.92        11
 
